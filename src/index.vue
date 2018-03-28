@@ -1,6 +1,5 @@
 <template>
     <section>
-        <h2>hogehoge</h2>
-        <div></div>
+        <h2>vue内のコンポーネントに書いているよ！</h2>
     </section>
 </template>
